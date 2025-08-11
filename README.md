@@ -1,4 +1,9 @@
 <h1 align="center">Salut 👋, moi c'est K2S</h1>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=k2s&theme=github" alt="GitHub Activity Graph" />
+</p>
+
 <p align="center">Je suis un jeune développeur en apprentissage, passionné par le code et curieux de tout.</p>
 
 ### 🙋‍♂️ À propos de moi
